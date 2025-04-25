@@ -93,7 +93,7 @@ spec:
                         description('') 
                         branch('')      
                         useRepository('')                     
-                        defaultValue('origin/main') 
+                        defaultValue('origin/master') 
                         branchFilter('.*')
                         tagFilter('*')
                         sortMode('ASCENDING_SMART')
